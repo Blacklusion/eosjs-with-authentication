@@ -1,0 +1,20 @@
+{
+  "name": "eosjs-with-authentication",
+  "version": "1.0.0",
+  "description": "Example implementation of using eosjs with Bearer Token",
+  "main": "src/index.ts",
+  "repository": "https://github.com/Blacklusion/eosjs-with-authentication.git",
+  "license": "MPL-2.0",
+  "private": false,
+  "scripts": {
+    "ts-start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "eosjs": "^22.1.0",
+    "node-fetch": "2.6.7"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
