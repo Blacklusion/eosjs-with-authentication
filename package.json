@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Example implementation of using eosjs with Bearer Token",
   "main": "src/index.ts",
-  "repository": "https://github.com/Blacklusion/eosjs-with-authentication.git",
+  "repository": "https://github.com/Blacklusion/eosjs-with-authentication-typescript.git",
   "license": "MPL-2.0",
   "private": false,
   "scripts": {
