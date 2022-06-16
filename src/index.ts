@@ -1,6 +1,5 @@
-// Prepare NodeApi Access
 import {JsonRpc} from "eosjs";
-import * as fetch from "node-fetch";
+import fetch from "node-fetch";
 
 const token = "YOUR_TOKEN_HERE"
 
